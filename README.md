@@ -10,4 +10,4 @@
 
 ---
 
-**Autor:** Murilo
+**by:** Murilo
